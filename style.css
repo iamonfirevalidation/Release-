@@ -1,0 +1,157 @@
+h1 {
+	color: white;
+	font-size:50px;
+	text-align:center;
+	font-family:Wide Latin;
+}
+footer {
+	font-family:monospace;
+	height:100px;
+	background-color:#503C3C;
+	font-size:20px;
+	box-shadow:inset 0px -30px 5px black;
+	width:100%;
+	float:bottom;
+	bottom:0;
+}
+
+.medicgaming {
+	background-image: url("https://wiki.teamfortress.com/w/images/thumb/c/ca/Hydro_turbine.jpg/800px-Hydro_turbine.jpg");
+	background-repeat: no-repeat;
+   width:40%;
+   height:60%;
+   display:inline-block;
+   border: 3px solid rgba(255, 255, 255, .5);
+	box-shadow:2 2 0 4 black;
+	position:relative;
+}
+
+.articletext {
+	color:white;
+	font-size:40px;
+	font-family:Courier New, monospace;
+}
+
+.medicgaming:hover{
+	opacity:0.80;
+	transition: 0.5s linear;
+}
+
+.dusttext {
+	font-size:40px;
+	font-family:Courier New, monospace;
+	color:white;
+}
+
+.dustbowl {
+	background-image: url("https://wiki.teamfortress.com/w/images/thumb/a/aa/Cp_granary_cp3a.png/1024px-Cp_granary_cp3a.png");
+	background-repeat: no-repeat;
+	width:40%;
+   height:60%;
+   display:inline-block;
+   border: 3px solid rgba(255, 255, 255, .5);
+   box-shadow:2 2 0 4 black;
+   position:relative;
+}
+
+.dustbowl:hover {
+	opacity:0.80;
+	transition: 0.5s linear;
+}
+
+header {
+	background-color:brown;
+	box-shadow:inset 5px 5px 5px black;
+}
+
+.ad {
+   background-image: url("https://steamcdn-a.akamaihd.net/apps/tf2/artwork/competitive_tier5_2650x1600.jpg");
+   background-repeat: no-repeat;
+   padding-bottom:500px;
+   font-family:Arial Black;
+   border:6px double #A87C7C;
+     
+}
+
+li {
+	list-style-type:circle;
+	color:white;
+	font-size:20px;
+}
+
+.ad p {
+	color:white;
+	font-size:40px;
+}
+
+body {
+	background-image: url("https://tf2maps.net/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FUiksYJi.png&hash=d2566215f4960c3b1e4b658030a1ad04");
+}
+
+.art1 {
+   background-image: url("https://wiki.teamfortress.com/w/images/thumb/5/5b/Competitive_tier6_2650x1600.jpg/800px-Competitive_tier6_2650x1600.jpg");
+   background-repeat:no-repeat;
+   width:40%;
+   height:60%;
+   display:inline-block;
+   border: 3px solid rgba(255, 255, 255, .5);
+	box-shadow:2 2 0 4 black;
+	position:relative;
+}
+
+.art1p {
+   font-size:40px;
+	font-family:Courier New, monospace;
+	color:white;
+}
+
+.art1:hover {
+	opacity:0.80;
+	transition: 0.5s linear;
+}
+
+.art2 {
+	background-image:url("https://valvearchive.com/archive/Team%20Fortress/Team%20Fortress%202/Art/Environment%20Art/Spytech/computers_2.jpg");
+	background-repeat:no-repeat;
+	width:40%;
+	height:60%;
+	display:inline-block;
+	border: 3px solid rgba(255, 255, 255, .5);
+	box-shadow:2 2 0 4 black;
+	position:relative;
+}
+
+.art2p {
+  font-size:40px;
+	font-family:Courier New, monospace;
+	color:white;
+}
+
+.art2:hover {
+	opacity:0.80;
+	transition:0.5s linear;
+}
+
+a {
+	text-decoration:none;
+	color:white;
+}
+
+a:hover{
+	color:white;
+}
+
+a:visited {
+	color:white;
+}
+
+section article:hover {
+    margin-right:300px;
+	height:340px;
+    margin: 5px;
+    transition: 0.5s ease-out; 
+}
+
+
+
+

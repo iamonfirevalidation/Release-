@@ -1,0 +1,124 @@
+h1 {
+	color: white;
+	font-size:50px;
+	text-align:center;
+	font-family:Wide Latin;
+}
+
+header {
+	background-color:brown;
+	box-shadow:inset 5px 5px 5px black;
+}
+
+body {
+	background-image: url("https://tf2maps.net/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FUiksYJi.png&hash=d2566215f4960c3b1e4b658030a1ad04");
+}
+
+.circle {
+	background-color:#43766C;
+	height:400px;
+	width:400px;
+	border-radius:50%;
+	margin:auto;
+}
+
+.circle2 {
+	background-color:#F8FAE5;
+	height:380px;
+	width:380px;
+	border-radius:50%;
+	margin:auto;
+	margin-top: 10px;
+}
+
+.circle3 {
+	background-color:#B19470;
+	height:360px;
+	width:360px;
+	border-radius:50%;
+	margin:auto;
+	margin-top: 10px;
+}
+
+.circle4 {
+	background-color:#76453B;
+	height:340px;
+	width:340px;
+	border-radius:50%;
+	margin:auto;
+	margin-top: 10px;
+}
+
+.circle5 {
+	background-color:#F5DD61;
+	height:320px;
+	width:320px;
+	border-radius:50%;
+	margin:auto;
+	margin-top: 10px;
+}
+
+article {
+   position:sticky;
+	display:inline-block;
+	border:3px double #4F6F52;
+	background-color:#739072;
+	height:60%
+}
+
+article h2 {
+	font-family:monospace;
+	text-align:center;
+}
+
+article p {
+	font-family:tahoma;
+	text-align:center;
+	margin-top:100px;
+}
+
+article:hover {
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+   transition: 0.1s ease-out; 
+}
+
+article hl2:hover {
+		font-size:20px;
+   transition: 0.1s ease-out;
+}
+
+article p:hover {
+		font-size:20px;
+   transition: 0.1s ease-out;
+}
+
+a {
+	text-decoration:none;
+	color:white;
+}
+
+a:hover{
+	color:white;
+}
+
+a:visited {
+	color:white;
+}
+
+footer {
+	font-family:monospace;
+	height:100px;
+	background-color:#503C3C;
+	font-size:20px;
+	box-shadow:inset 0px -30px 5px black;
+	width:100%;
+	float:bottom;
+	bottom:0;
+}
+
+
+
+
+
