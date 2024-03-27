@@ -11,7 +11,7 @@ header {
 }
 
 body {
-	background-color:#EEEDEB;
+	background-color:#76453B;
 }
 
 article {
@@ -67,6 +67,8 @@ footer {
 	box-shadow:inset 0px -30px 5px black;
 	width:100%;
 	float:bottom;
-	position:fixed;
 	bottom:0;
+	border-bottom:5px solid #B19470;
+	border-left:3px solid #B19470;
+	border-right:3px solid #B19470;
 }

@@ -11,7 +11,7 @@ header {
 }
 
 body {
-	background-color:#EEEDEB;
+	background-color:#76453B;
 }
 
 .circle {
@@ -116,6 +116,9 @@ footer {
 	width:100%;
 	float:bottom;
 	bottom:0;
+	border-bottom:5px solid #B19470;
+	border-left:3px solid #B19470;
+	border-right:3px solid #B19470;
 }
 
 
