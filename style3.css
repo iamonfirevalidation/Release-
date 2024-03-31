@@ -49,6 +49,7 @@ article {
 a {
 	text-decoration:none;
 	font-family:monospace;
+	color:white;
 }
 
 a:hover {
